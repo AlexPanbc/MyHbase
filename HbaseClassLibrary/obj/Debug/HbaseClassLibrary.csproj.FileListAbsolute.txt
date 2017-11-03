@@ -1,0 +1,7 @@
+D:\Test\MyHbase\HbaseClassLibrary\bin\Debug\HbaseClassLibrary.dll
+D:\Test\MyHbase\HbaseClassLibrary\bin\Debug\HbaseClassLibrary.pdb
+D:\Test\MyHbase\HbaseClassLibrary\obj\Debug\HbaseClassLibrary.dll
+D:\Test\MyHbase\HbaseClassLibrary\obj\Debug\HbaseClassLibrary.pdb
+D:\Test\MyHbase\HbaseClassLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\Test\MyHbase\HbaseClassLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\Test\MyHbase\HbaseClassLibrary\obj\Debug\HbaseClassLibrary.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\工作\20161205SVN\branch\20161203指标\HBaseThrift\bin\Debug\HBaseThrift.dll
+D:\工作\20161205SVN\branch\20161203指标\HBaseThrift\bin\Debug\HBaseThrift.pdb
+D:\工作\20161205SVN\branch\20161203指标\HBaseThrift\obj\Debug\HBaseThrift.dll
+D:\工作\20161205SVN\branch\20161203指标\HBaseThrift\obj\Debug\HBaseThrift.pdb
+D:\工作\20161205SVN\branch\20161203指标\HBaseThrift\obj\Debug\HBaseThrift.csprojResolveAssemblyReference.cache
+D:\Test\MyHbase\HBaseThrift\bin\Debug\HBaseThrift.dll
+D:\Test\MyHbase\HBaseThrift\bin\Debug\HBaseThrift.pdb
+D:\Test\MyHbase\HBaseThrift\obj\Debug\HBaseThrift.dll
+D:\Test\MyHbase\HBaseThrift\obj\Debug\HBaseThrift.pdb
+D:\Test\MyHbase\HBaseThrift\obj\Debug\HBaseThrift.csprojResolveAssemblyReference.cache
